@@ -1,7 +1,7 @@
 # Clara Triggers Table.
 ## This is simply a place to hold all Triggers cleanly.
-
-
+<br>
+<br>
 ### See Format Below.
 
 ## Format:
@@ -11,10 +11,10 @@
 ## WHATDO: 
 ## DATEFOUND: 
 ## }
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 Client Triggers:
 {
 RESOURCE: cv-ui
@@ -22,11 +22,11 @@ TRIGGER: TriggerEvent('cv-ui:Toast', msg[string], color[string - Red,Blue,Green]
 WHATDO: Shows ui popup with custom text
 DATEFOUND: 9/11/25
 }
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 Server Triggers:
 {
 RESOURCE: brutal_pets
