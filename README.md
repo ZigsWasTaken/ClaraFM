@@ -8,6 +8,6 @@ Clara.wtf Private Repo, Any users here should be developers and will be listed b
 <br>
 <br>
 
-# ChangeLog - Last Updated 9/17/25
+# ChangeLog
 ### Any Changes to clara should be logged here!
 ### Does not matter the size of the change it should always be logged here.
