@@ -1,10 +1,9 @@
-# Clara Triggers Table.
-## This is simply a place to hold all Triggers cleanly.
+#### Clara Triggers Table.
+### This is simply a place to hold all Triggers cleanly.
 
 <br>
 <br>
 
-### See Format Below.
 
 <br>
 <br>
