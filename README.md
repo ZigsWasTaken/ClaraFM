@@ -1,2 +1,5 @@
-# ClaraFM
-Clara is a FiveM Lua menu with tons of undetected features and triggers/exploits allowing you to spawn items &amp; money in tons of servers
+### Clara.wtf Private Repo, Any users here should be developers and will be listed below.
+
+
+## Zigs - Main Developer [ UI/Backend/Frontend/Bypasses/API ]
+## p||q - Developer [ Backend/Bypasses ]
