@@ -27,3 +27,7 @@
 
 # 9/17/25
 ### Version: 1.0.0
+### Started Website
+### Started Discord Bot
+### Started API
+### Started Lua Menu
