@@ -1,8 +1,13 @@
-# Clara Triggers Table
-## See Format Below
+Clara Triggers Table.
+This is simply a place to hold all Triggers cleanly.
 
 
-### RESOURCE: 
-### TRIGGER: 
-### WHATDO: 
-### DATEFOUND: 
+See Format Below.
+
+Format:
+{
+RESOURCE: 
+TRIGGER: 
+WHATDO: 
+DATEFOUND: 
+}
