@@ -6,6 +6,13 @@
 
 <br>
 <br>
+
+# Information
+## Version: 1.0.1
+## Last Dev To Update: Zigs
+## Feature Count: 0 - We will just use ai to get this number or manually count them 😭
+
+
 <br>
 <br>
 
