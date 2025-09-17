@@ -26,8 +26,8 @@
 
 
 # 9/17/25
-### Version: 1.0.0
-### Started Website
-### Started Discord Bot
-### Started API
-### Started Lua Menu
+### <span style="color:orange">Version: 1.0.0</span>
+### <span style="color:green">Started Working On Website</span>
+### <span style="color:blue">Started Working On Discord Bot</span>
+### <span style="color:purple">Started Working On API</span>
+### <span style="color:red">Started Working On Lua Menu</span>
